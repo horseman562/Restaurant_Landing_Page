@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/static/js/main.812b14e8.chunk.js",
+    "main.js.map": "/static/js/main.812b14e8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9a0e312c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9a0e312c.js.map",
+    "static/js/2.573306cf.chunk.js": "/static/js/2.573306cf.chunk.js",
+    "static/js/2.573306cf.chunk.js.map": "/static/js/2.573306cf.chunk.js.map",
+    "static/js/3.c8c062b1.chunk.js": "/static/js/3.c8c062b1.chunk.js",
+    "static/js/3.c8c062b1.chunk.js.map": "/static/js/3.c8c062b1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.573306cf.chunk.js.LICENSE.txt": "/static/js/2.573306cf.chunk.js.LICENSE.txt",
+    "static/media/Anpan-Japanese-Red-Bean-Bun-3.19dc01c1.jpg": "/static/media/Anpan-Japanese-Red-Bean-Bun-3.19dc01c1.jpg",
+    "static/media/ArdianBakery.eb9d65c0.jpg": "/static/media/ArdianBakery.eb9d65c0.jpg",
+    "static/media/DSCF9208.6fad2c02.jpg": "/static/media/DSCF9208.6fad2c02.jpg",
+    "static/media/featured3.66d68644.jpg": "/static/media/featured3.66d68644.jpg",
+    "static/media/slider buns edits 05.13.Still004.94d5803e.jpg": "/static/media/slider buns edits 05.13.Still004.94d5803e.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet3.c495c742.jpg": "/static/media/sweet3.c495c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a0e312c.js",
+    "static/js/2.573306cf.chunk.js",
+    "static/js/main.812b14e8.chunk.js"
+  ]
+}
